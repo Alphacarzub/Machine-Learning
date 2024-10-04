@@ -1,1 +1,1 @@
-
+<b><h>Hi, This was a first mini-research project where aim was to understand how does standardization operation impacts the model results. We used dataset from the kaggle, dp stands for "data preprocessing".</h></b>
